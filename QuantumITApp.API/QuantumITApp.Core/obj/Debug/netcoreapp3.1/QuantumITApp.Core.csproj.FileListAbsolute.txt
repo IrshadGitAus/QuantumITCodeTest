@@ -1,0 +1,8 @@
+C:\Users\s87426\Desktop\Desktop\DotNET\QuantumITApp\QuantumITApp.API\QuantumITApp.Core\bin\Debug\netcoreapp3.1\QuantumITApp.Core.deps.json
+C:\Users\s87426\Desktop\Desktop\DotNET\QuantumITApp\QuantumITApp.API\QuantumITApp.Core\bin\Debug\netcoreapp3.1\QuantumITApp.Core.dll
+C:\Users\s87426\Desktop\Desktop\DotNET\QuantumITApp\QuantumITApp.API\QuantumITApp.Core\bin\Debug\netcoreapp3.1\QuantumITApp.Core.pdb
+C:\Users\s87426\Desktop\Desktop\DotNET\QuantumITApp\QuantumITApp.API\QuantumITApp.Core\obj\Debug\netcoreapp3.1\QuantumITApp.Core.csprojAssemblyReference.cache
+C:\Users\s87426\Desktop\Desktop\DotNET\QuantumITApp\QuantumITApp.API\QuantumITApp.Core\obj\Debug\netcoreapp3.1\QuantumITApp.Core.AssemblyInfoInputs.cache
+C:\Users\s87426\Desktop\Desktop\DotNET\QuantumITApp\QuantumITApp.API\QuantumITApp.Core\obj\Debug\netcoreapp3.1\QuantumITApp.Core.AssemblyInfo.cs
+C:\Users\s87426\Desktop\Desktop\DotNET\QuantumITApp\QuantumITApp.API\QuantumITApp.Core\obj\Debug\netcoreapp3.1\QuantumITApp.Core.dll
+C:\Users\s87426\Desktop\Desktop\DotNET\QuantumITApp\QuantumITApp.API\QuantumITApp.Core\obj\Debug\netcoreapp3.1\QuantumITApp.Core.pdb

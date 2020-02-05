@@ -1,0 +1,47 @@
+<div class="row">
+
+  <div class="col-md-6 col-md-offset-2">
+    <h1><span *ngIf="subject!=null" class="badge badge-light" id="header">Add Student - {{subject.name}}</span></h1>
+
+    <form [formGroup]="userForm" (ngSubmit)="onSubmit()">
+
+      <div class="form-group">
+        <label for="studentFirstName">First Name:</label>
+        <input type="text" class="form-control" formControlName="firstName" id="firstName">
+        <div *ngIf="submitted && userForm.controls.firstName.errors" class="error">
+          <div *ngIf="userForm.controls.firstName.errors.required">*First Name is required</div>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="studentLastName">Last Name:</label>
+        <input type="text" class="form-control" formControlName="surName" id="surName">
+        <div *ngIf="submitted && userForm.controls.surName.errors" class="error">
+          <div *ngIf="userForm.controls.surName.errors.required">*Last Name is required</div>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="studentAge">Age:</label>
+        <input type="text" class="form-control" formControlName="age" id="age">
+        <div *ngIf="submitted && userForm.controls.age.errors" class="error">
+          <div *ngIf="userForm.controls.age.errors.required">*Age is required</div>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="studentGpa">GPA:</label>
+        <input type="text" class="form-control" formControlName="gpa" id="gpa">
+        <div *ngIf="submitted && userForm.controls.gpa.errors" class="error">
+          <div *ngIf="userForm.controls.gpa.errors.required">*GPA is required</div>
+        </div>
+      </div>
+
+      <div class="form-group text-center">
+        <button class="btn btn-success" type="submit">Submit</button>&nbsp;&nbsp;
+        <a routerLink="/subjects"><button class="btn btn-primary" type="button">Cancel</button></a>
+      </div>
+
+    </form>
+  </div>
+</div>

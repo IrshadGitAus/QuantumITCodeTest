@@ -1,0 +1,29 @@
+<br>
+<br>
+
+<div class="row">
+  <div class="col-md-10">
+    <h2 class="text-center">{{subjectSelected.name}}</h2>
+    <ag-grid-angular *ngIf="subjectStudents!=null" style="width: 100%; height: 300px;" class="ag-theme-balham" [rowData]="subjectStudents.students"
+      [columnDefs]="columnDefs" [undoRedoCellEditing]="true" rowSelection="single" [getRowStyle]="getRowStyleGPA" editType="fullRow"
+      (rowSelected)="putStudentSelected($event)" (gridReady)="onGridReady($event)"
+      (rowEditingStopped)="updateStudent($event)">
+    </ag-grid-angular>
+    <i>NOTE: Last Name must be unique within the class, i.e. if a class contains a student with the last name "Jones", you cannot add another student with the last name of "Jones" in the same class.</i>
+  </div>
+
+  <div class="col-md-2">
+    <ul class='list-group'>
+      <li class='list-group-item borderless'>
+        <a *ngIf="subjectSelected!=null" [routerLink]="['/addstudent',subjectSelected.id]"><button
+          class="btn btn-sm btn-success button">Add</button></a>
+      </li>
+      <li class='list-group-item borderless'>
+        <button class="btn btn-sm btn-primary" (click)="editStudentRow()">Edit</button>
+      </li>
+      <li class='list-group-item borderless'>
+        <button class="btn btn-sm btn-danger" (click)="deleteStudent()">Delete</button>
+      </li>
+    </ul>
+  </div>
+</div>

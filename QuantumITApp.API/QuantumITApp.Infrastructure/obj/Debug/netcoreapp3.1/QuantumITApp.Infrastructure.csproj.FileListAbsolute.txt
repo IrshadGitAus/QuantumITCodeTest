@@ -1,0 +1,13 @@
+C:\Users\s87426\Desktop\Desktop\DotNET\QuantumITApp\QuantumITApp.API\QuantumITApp.Infrastructure\bin\Debug\netcoreapp3.1\QuantumITApp.Core.dll
+C:\Users\s87426\Desktop\Desktop\DotNET\QuantumITApp\QuantumITApp.API\QuantumITApp.Infrastructure\obj\Debug\netcoreapp3.1\QuantumITApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\s87426\Desktop\Desktop\DotNET\QuantumITApp\QuantumITApp.API\QuantumITApp.Infrastructure\obj\Debug\netcoreapp3.1\QuantumITApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\s87426\Desktop\Desktop\DotNET\QuantumITApp\QuantumITApp.API\QuantumITApp.Infrastructure\obj\Debug\netcoreapp3.1\QuantumITApp.Infrastructure.AssemblyInfo.cs
+C:\Users\s87426\Desktop\Desktop\DotNET\QuantumITApp\QuantumITApp.API\QuantumITApp.Infrastructure\bin\Debug\netcoreapp3.1\QuantumITApp.Infrastructure.deps.json
+C:\Users\s87426\Desktop\Desktop\DotNET\QuantumITApp\QuantumITApp.API\QuantumITApp.Infrastructure\bin\Debug\netcoreapp3.1\QuantumITApp.Infrastructure.runtimeconfig.json
+C:\Users\s87426\Desktop\Desktop\DotNET\QuantumITApp\QuantumITApp.API\QuantumITApp.Infrastructure\bin\Debug\netcoreapp3.1\QuantumITApp.Infrastructure.runtimeconfig.dev.json
+C:\Users\s87426\Desktop\Desktop\DotNET\QuantumITApp\QuantumITApp.API\QuantumITApp.Infrastructure\bin\Debug\netcoreapp3.1\QuantumITApp.Infrastructure.dll
+C:\Users\s87426\Desktop\Desktop\DotNET\QuantumITApp\QuantumITApp.API\QuantumITApp.Infrastructure\bin\Debug\netcoreapp3.1\QuantumITApp.Infrastructure.pdb
+C:\Users\s87426\Desktop\Desktop\DotNET\QuantumITApp\QuantumITApp.API\QuantumITApp.Infrastructure\bin\Debug\netcoreapp3.1\QuantumITApp.Core.pdb
+C:\Users\s87426\Desktop\Desktop\DotNET\QuantumITApp\QuantumITApp.API\QuantumITApp.Infrastructure\obj\Debug\netcoreapp3.1\QuantumITApp.Infrastructure.csproj.CopyComplete
+C:\Users\s87426\Desktop\Desktop\DotNET\QuantumITApp\QuantumITApp.API\QuantumITApp.Infrastructure\obj\Debug\netcoreapp3.1\QuantumITApp.Infrastructure.dll
+C:\Users\s87426\Desktop\Desktop\DotNET\QuantumITApp\QuantumITApp.API\QuantumITApp.Infrastructure\obj\Debug\netcoreapp3.1\QuantumITApp.Infrastructure.pdb

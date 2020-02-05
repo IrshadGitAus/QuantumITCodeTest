@@ -1,0 +1,11 @@
+C:\Juned\QuantumIT-master\QuantumIT-master\QuantumITApp.Services.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Juned\QuantumIT-master\QuantumIT-master\QuantumITApp.Services.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Juned\QuantumIT-master\QuantumIT-master\QuantumITApp.Services.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Juned\QuantumIT-master\QuantumIT-master\QuantumITApp.Services.Test\bin\Debug\netcoreapp2.1\QuantumITApp.Services.Test.deps.json
+C:\Juned\QuantumIT-master\QuantumIT-master\QuantumITApp.Services.Test\bin\Debug\netcoreapp2.1\QuantumITApp.Services.Test.runtimeconfig.json
+C:\Juned\QuantumIT-master\QuantumIT-master\QuantumITApp.Services.Test\bin\Debug\netcoreapp2.1\QuantumITApp.Services.Test.runtimeconfig.dev.json
+C:\Juned\QuantumIT-master\QuantumIT-master\QuantumITApp.Services.Test\bin\Debug\netcoreapp2.1\QuantumITApp.Services.Test.dll
+C:\Juned\QuantumIT-master\QuantumIT-master\QuantumITApp.Services.Test\obj\Debug\netcoreapp2.1\QuantumITApp.Services.Test.csprojAssemblyReference.cache
+C:\Juned\QuantumIT-master\QuantumIT-master\QuantumITApp.Services.Test\obj\Debug\netcoreapp2.1\QuantumITApp.Services.Test.csproj.CoreCompileInputs.cache
+C:\Juned\QuantumIT-master\QuantumIT-master\QuantumITApp.Services.Test\obj\Debug\netcoreapp2.1\QuantumITApp.Services.Test.AssemblyInfoInputs.cache
+C:\Juned\QuantumIT-master\QuantumIT-master\QuantumITApp.Services.Test\obj\Debug\netcoreapp2.1\QuantumITApp.Services.Test.AssemblyInfo.cs

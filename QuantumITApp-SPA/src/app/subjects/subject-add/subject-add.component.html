@@ -1,0 +1,38 @@
+<div class="row">
+
+  <div class="col-md-6 col-md-offset-2">
+      <h1><span class="badge badge-light" id="header">Add Subject</span></h1>
+    <form [formGroup]="userForm" (ngSubmit)="onSubmit()">
+      
+      <div class="form-group">
+            <label for="className">Class Name:</label>
+            <input type="text" class="form-control" formControlName="name" id="name">
+            <div *ngIf="submitted && userForm.controls.name.errors" class="error">
+              <div *ngIf="userForm.controls.name.errors.required">*Class Name is required</div>
+            </div>
+      </div>
+
+      <div class="form-group">
+          <label for="classLocation">Location:</label>
+          <input type="address" class="form-control" formControlName="location" id="location">
+          <div *ngIf="submitted && userForm.controls.location.errors" class="error">
+            <div *ngIf="userForm.controls.location.errors.required">*Location is required</div>
+          </div>
+      </div>
+
+      <div class="form-group">
+        <label for="classTeacherName">Teacher Name:</label>
+        <input type="text" class="form-control" formControlName="teacherName" id="teacherName">
+        <div *ngIf="submitted && userForm.controls.teacherName.errors" class="error">
+          <div *ngIf="userForm.controls.teacherName.errors.required">*Teacher Name is required</div>
+        </div>
+      </div>
+
+      <div class="form-group text-center">
+        <button class="btn btn-success" type="submit">Submit</button> &nbsp;&nbsp;
+        <a routerLink="/users"><button class="btn btn-primary" type="button">Cancel</button></a>
+      </div>
+      
+    </form>
+  </div>
+</div>
